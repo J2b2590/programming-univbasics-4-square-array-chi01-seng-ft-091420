@@ -16,4 +16,4 @@ while counter < array.length do
 new_nums_array
 end
 
-puts square_array([4,3,4,2,4,3,4,3,])
+puts square_array([12,3,233,32123,43])
