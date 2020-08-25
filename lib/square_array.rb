@@ -13,5 +13,5 @@ while counter < array.length do
   new_nums_array.push(array[counter] * array[counter])
   counter += 1
   end
-new_nums_array
+puts new_nums_array
 end
